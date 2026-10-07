@@ -11,6 +11,7 @@ from datetime import date, datetime, timedelta
 from pathlib import Path
 from typing import Any
 from urllib.parse import urljoin, urlparse
+from zoneinfo import ZoneInfo
 
 from playwright.sync_api import sync_playwright
 
@@ -290,6 +291,97 @@ def iter_jsonld_events(value: Any, base_url: str) -> list[Event]:
     return found
 
 
+def parse_salesforce_datetime(value: str) -> datetime | None:
+    if not value:
+        return None
+    try:
+        dt = datetime.strptime(value, "%Y-%m-%dT%H:%M:%S.%f%z")
+    except ValueError:
+        try:
+            dt = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        except ValueError:
+            return None
+    return dt.astimezone(ZoneInfo(TIMEZONE))
+
+
+def event_from_salesforce_record(record: dict[str, Any]) -> Event | None:
+    event_id = clean_text(str(record.get("Id") or ""))
+    title = clean_text(str(record.get("Subject") or ""))
+    start_raw = clean_text(str(record.get("StartDateTime") or ""))
+    end_raw = clean_text(str(record.get("EndDateTime") or ""))
+
+    if not event_id.startswith("00U") or not title or not start_raw:
+        return None
+
+    start_dt = parse_salesforce_datetime(start_raw)
+    end_dt = parse_salesforce_datetime(end_raw) if end_raw else None
+    if start_dt is None:
+        return None
+    if end_dt is None or end_dt <= start_dt:
+        end_dt = start_dt + timedelta(hours=1)
+
+    all_day = bool(record.get("IsAllDayEvent"))
+    location = clean_text(str(record.get("Location") or "")) or "Sydney Motorsport Park"
+    source_url = f"{TARGET_URL}#salesforce-event-{event_id}"
+
+    if all_day:
+        activity_date = clean_text(str(record.get("ActivityDate") or ""))
+        try:
+            start_date = date.fromisoformat(activity_date) if activity_date else start_dt.date()
+        except ValueError:
+            start_date = start_dt.date()
+        end_date = max(start_date + timedelta(days=1), end_dt.date())
+        start = start_date.isoformat()
+        end = end_date.isoformat()
+    else:
+        start = start_dt.replace(tzinfo=None).isoformat(timespec="minutes")
+        end = end_dt.replace(tzinfo=None).isoformat(timespec="minutes")
+
+    return Event(
+        uid=f"{event_id}@smsp-calendar.akumarau",
+        title=title,
+        start=start,
+        end=end,
+        all_day=all_day,
+        url=source_url,
+        location=location,
+        description="Source: Sydney Motorsport Park public event calendar",
+    )
+
+
+def extract_salesforce_events(payload: Any) -> list[Event]:
+    found: dict[str, Event] = {}
+    visited_strings: set[str] = set()
+
+    def walk(node: Any) -> None:
+        if isinstance(node, dict):
+            ev = event_from_salesforce_record(node)
+            if ev:
+                found[ev.uid] = ev
+            for child in node.values():
+                walk(child)
+        elif isinstance(node, list):
+            for child in node:
+                walk(child)
+        elif isinstance(node, str):
+            candidate = node.strip()
+            if (
+                candidate
+                and candidate not in visited_strings
+                and len(candidate) > 20
+                and candidate[0] in "[{"
+            ):
+                visited_strings.add(candidate)
+                try:
+                    decoded = json.loads(candidate)
+                except Exception:
+                    return
+                walk(decoded)
+
+    walk(payload)
+    return list(found.values())
+
+
 def event_from_candidate(candidate: dict[str, str]) -> Event | None:
     text = clean_text(candidate.get("context") or candidate.get("text") or "")
     title = clean_text(candidate.get("text") or "")
@@ -505,6 +597,13 @@ def main() -> None:
                 events.append(ev)
 
         browser.close()
+
+    # The calendar is a Salesforce Experience Cloud app. Its event records are
+    # returned through Aura JSON responses rather than normal anchor elements.
+    # Parse those responses recursively, including JSON strings nested inside
+    # Salesforce returnValue fields.
+    for response in network_json:
+        events.extend(extract_salesforce_events(response.get("data")))
 
     events = dedupe(events)
 
