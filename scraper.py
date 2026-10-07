@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+# Repository setup trigger: run the calendar sync workflow after initial configuration.
+
 import hashlib
 import json
 import os
