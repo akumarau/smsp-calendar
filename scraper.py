@@ -466,17 +466,72 @@ def render_ics(events: list[Event]) -> str:
 
 
 def dedupe(events: list[Event]) -> list[Event]:
-    by_uid: dict[str, Event] = {}
+    """Merge duplicate venue records into one calendar event.
+
+    SMSP often publishes the same event once per circuit or facility. Events
+    with the same normalized title, start, end, and all-day state are treated
+    as one logical event. Their locations are combined so no venue information
+    is lost.
+    """
+    grouped: dict[tuple[str, str, str, bool], list[Event]] = {}
+
     for event in events:
-        existing = by_uid.get(event.uid)
-        if not existing:
-            by_uid[event.uid] = event
-            continue
-        score_new = bool(event.description) + bool(event.location != "Sydney Motorsport Park")
-        score_old = bool(existing.description) + bool(existing.location != "Sydney Motorsport Park")
-        if score_new > score_old:
-            by_uid[event.uid] = event
-    return list(by_uid.values())
+        key = (
+            clean_text(event.title).casefold(),
+            event.start,
+            event.end,
+            event.all_day,
+        )
+        grouped.setdefault(key, []).append(event)
+
+    merged: list[Event] = []
+
+    for key, group in grouped.items():
+        first = group[0]
+
+        locations = sorted(
+            {
+                clean_text(event.location)
+                for event in group
+                if clean_text(event.location)
+                and clean_text(event.location) != "Sydney Motorsport Park"
+            },
+            key=str.casefold,
+        )
+        location = ", ".join(locations) if locations else "Sydney Motorsport Park"
+
+        descriptions = []
+        for event in group:
+            value = clean_text(event.description)
+            if value and value not in descriptions:
+                descriptions.append(value)
+
+        identity = "|".join(
+            [
+                key[0],
+                first.start,
+                first.end,
+                "all-day" if first.all_day else "timed",
+            ]
+        )
+        digest = hashlib.sha256(identity.encode("utf-8")).hexdigest()[:24]
+        uid = f"{digest}@smsp-calendar.akumarau"
+
+        merged.append(
+            Event(
+                uid=uid,
+                title=first.title,
+                start=first.start,
+                end=first.end,
+                all_day=first.all_day,
+                url=TARGET_URL,
+                location=location,
+                description=" ".join(descriptions)
+                or "Source: Sydney Motorsport Park public event calendar",
+            )
+        )
+
+    return merged
 
 
 def main() -> None:
@@ -605,6 +660,7 @@ def main() -> None:
     for response in network_json:
         events.extend(extract_salesforce_events(response.get("data")))
 
+    raw_event_count = len(events)
     events = dedupe(events)
 
     debug = {
@@ -613,6 +669,7 @@ def main() -> None:
         "page_title": page_title,
         "body_text_preview": body_text[:12000],
         "candidate_count": len(candidates),
+        "raw_event_count": raw_event_count,
         "event_count": len(events),
         "candidates": candidates[:250],
         "network_json": network_json[:20],
