@@ -28,6 +28,11 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v6
 
+      - name: Sync latest main
+        run: |
+          git fetch origin main
+          git checkout -B main origin/main
+
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
