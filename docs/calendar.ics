@@ -7,4 +7,3943 @@ X-WR-CALNAME:Sydney Motorsport Park
 X-WR-TIMEZONE:Australia/Sydney
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:00UMn00000cfYO4MAM@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260901T083000
+DTEND;TZID=Australia/Sydney:20260901T163000
+SUMMARY:Driving Solutions - Advanced Driver Training
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfYO4MAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0tCXMAY@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260901T180000
+DTEND;TZID=Australia/Sydney:20260901T200000
+SUMMARY:Night Drive for Learners - September 2026
+LOCATION:Brabham (Extended)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0tCXMAY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cpxY4MAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260902T083000
+DTEND;TZID=Australia/Sydney:20260902T163000
+SUMMARY:Driving Solutions - NSW Fire
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cpxY4MAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cpxY3MAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260902T083000
+DTEND;TZID=Australia/Sydney:20260902T163000
+SUMMARY:Driving Solutions - NSW Fire
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cpxY3MAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0itpMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260902T083000
+DTEND;TZID=Australia/Sydney:20260902T163000
+SUMMARY:SMSP Open Pit Lane
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0itpMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0j6kMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260903T083000
+DTEND;TZID=Australia/Sydney:20260903T223000
+SUMMARY:Yokohama World Time Attack Challenge 2026
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0j6kMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0j6jMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260903T083000
+DTEND;TZID=Australia/Sydney:20260903T223000
+SUMMARY:Yokohama World Time Attack Challenge 2026
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0j6jMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0j6lMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260903T083000
+DTEND;TZID=Australia/Sydney:20260903T223000
+SUMMARY:Yokohama World Time Attack Challenge 2026
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0j6lMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0j6mMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260904T083000
+DTEND;TZID=Australia/Sydney:20260904T223000
+SUMMARY:Yokohama World Time Attack Challenge 2026
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0j6mMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0j6nMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260904T083000
+DTEND;TZID=Australia/Sydney:20260904T223000
+SUMMARY:Yokohama World Time Attack Challenge 2026
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0j6nMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0j6oMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260904T083000
+DTEND;TZID=Australia/Sydney:20260904T223000
+SUMMARY:Yokohama World Time Attack Challenge 2026
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0j6oMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0j6pMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260905T083000
+DTEND;TZID=Australia/Sydney:20260905T223000
+SUMMARY:Yokohama World Time Attack Challenge 2026
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0j6pMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0j6qMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260905T083000
+DTEND;TZID=Australia/Sydney:20260905T223000
+SUMMARY:Yokohama World Time Attack Challenge 2026
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0j6qMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0j6rMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260905T083000
+DTEND;TZID=Australia/Sydney:20260905T223000
+SUMMARY:Yokohama World Time Attack Challenge 2026
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0j6rMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cpuzyMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260906T083000
+DTEND;TZID=Australia/Sydney:20260906T163000
+SUMMARY:Australian Drift Club
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cpuzyMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0loTMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260906T083000
+DTEND;TZID=Australia/Sydney:20260906T163000
+SUMMARY:Private Event
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0loTMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nA8WLMA0@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260906T183000
+DTEND;TZID=Australia/Sydney:20260906T223000
+SUMMARY:Tuned Drift X
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nA8WLMA0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cf6BgMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260907T083000
+DTEND;TZID=Australia/Sydney:20260907T163000
+SUMMARY:Driving Solutions - Defensive Driver Training
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cf6BgMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cf6BfMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260907T083000
+DTEND;TZID=Australia/Sydney:20260907T163000
+SUMMARY:Driving Solutions - Defensive Driver Training
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cf6BfMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nA8g1MAC@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260907T083000
+DTEND;TZID=Australia/Sydney:20260907T163000
+SUMMARY:Rise Activation - Private Event
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nA8g1MAC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nA9LxMAK@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260907T183000
+DTEND;TZID=Australia/Sydney:20260907T223000
+SUMMARY:TGRA - Private Event
+LOCATION:Amaroo (South)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nA9LxMAK
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nA9LyMAK@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260907T183000
+DTEND;TZID=Australia/Sydney:20260907T223000
+SUMMARY:TGRA - Private Event
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nA9LyMAK
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0nS5MAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260908T083000
+DTEND;TZID=Australia/Sydney:20260908T163000
+SUMMARY:SMSP Open Pit Lane
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0nS5MAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000abnOPMAY@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260908T183000
+DTEND;TZID=Australia/Sydney:20260908T223000
+SUMMARY:SMSP Track Night
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000abnOPMAY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cqAOrMAM@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260909T083000
+DTEND;TZID=Australia/Sydney:20260909T163000
+SUMMARY:Driving Solutions - NSW Fire
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cqAOrMAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cqAOqMAM@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260909T083000
+DTEND;TZID=Australia/Sydney:20260909T163000
+SUMMARY:Driving Solutions - NSW Fire
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cqAOqMAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000abbn3MAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260909T083000
+DTEND;TZID=Australia/Sydney:20260909T170000
+SUMMARY:SMSP Track Day
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000abbn3MAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nA9QnMAK@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260909T183000
+DTEND;TZID=Australia/Sydney:20260909T223000
+SUMMARY:Roll Racing - Test & Tune
+LOCATION:Druitt (North)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nA9QnMAK
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfDdDMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260910T083000
+DTEND;TZID=Australia/Sydney:20260910T163000
+SUMMARY:Driving Solutions - 4WD Driver Training
+LOCATION:4WD Track
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfDdDMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nA4xOMAS@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260910T083000
+DTEND;TZID=Australia/Sydney:20260910T163000
+SUMMARY:Driving Solutions - Private Event
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nA4xOMAS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0qTBMAY@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260910T083000
+DTEND;TZID=Australia/Sydney:20260910T163000
+SUMMARY:Longroup
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0qTBMAY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nA21AMAS@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260912T183000
+DTEND;TZID=Australia/Sydney:20260912T223000
+SUMMARY:SMSP Ride Night MEGA
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nA21AMAS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAcEHMA0@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260913T083000
+DTEND;TZID=Australia/Sydney:20260913T163000
+SUMMARY:Driving Solutions - Private Event
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAcEHMA0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAAbNMAW@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260913T083000
+DTEND;TZID=Australia/Sydney:20260913T163000
+SUMMARY:SMSP Ride Days - MEGA
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAAbNMAW
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000ckWLZMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260914T083000
+DTEND;TZID=Australia/Sydney:20260914T163000
+SUMMARY:California Superbike School Australia
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000ckWLZMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfmVqMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260914T083000
+DTEND;TZID=Australia/Sydney:20260914T163000
+SUMMARY:Driving Solutions - Defensive Driver Training
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfmVqMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfmVpMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260914T083000
+DTEND;TZID=Australia/Sydney:20260914T163000
+SUMMARY:Driving Solutions - Defensive Driver Training
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfmVpMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000ckWLaMAM@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260915T083000
+DTEND;TZID=Australia/Sydney:20260915T163000
+SUMMARY:California Superbike School Australia
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000ckWLaMAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cqKkkMAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260915T083000
+DTEND;TZID=Australia/Sydney:20260915T163000
+SUMMARY:Driving Solutions - NSW Fire
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cqKkkMAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cqKkjMAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260915T083000
+DTEND;TZID=Australia/Sydney:20260915T163000
+SUMMARY:Driving Solutions - NSW Fire
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cqKkjMAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000abPfSMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260915T183000
+DTEND;TZID=Australia/Sydney:20260915T223000
+SUMMARY:SMSP Track Night
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000abPfSMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0dCdMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260916T083000
+DTEND;TZID=Australia/Sydney:20260916T223000
+SUMMARY:Private Event
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0dCdMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0dCeMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260916T083000
+DTEND;TZID=Australia/Sydney:20260916T223000
+SUMMARY:Private Event
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0dCeMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0dCcMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260916T083000
+DTEND;TZID=Australia/Sydney:20260916T223000
+SUMMARY:Private Event
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0dCcMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0dCgMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260917T083000
+DTEND;TZID=Australia/Sydney:20260917T223000
+SUMMARY:Private Event
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0dCgMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0dChMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260917T083000
+DTEND;TZID=Australia/Sydney:20260917T223000
+SUMMARY:Private Event
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0dChMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0dCfMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260917T083000
+DTEND;TZID=Australia/Sydney:20260917T223000
+SUMMARY:Private Event
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0dCfMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0dCjMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260918T083000
+DTEND;TZID=Australia/Sydney:20260918T223000
+SUMMARY:SRO Shannon's Speedseries 2026 Round 5
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0dCjMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0dCkMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260918T083000
+DTEND;TZID=Australia/Sydney:20260918T223000
+SUMMARY:SRO Shannon's Speedseries 2026 Round 5
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0dCkMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0dCiMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260918T083000
+DTEND;TZID=Australia/Sydney:20260918T223000
+SUMMARY:SRO Shannon's Speedseries 2026 Round 5
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0dCiMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0dCmMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260919T083000
+DTEND;TZID=Australia/Sydney:20260919T223000
+SUMMARY:SRO Shannon's Speedseries 2026 Round 5
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0dCmMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0dCnMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260919T083000
+DTEND;TZID=Australia/Sydney:20260919T223000
+SUMMARY:SRO Shannon's Speedseries 2026 Round 5
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0dCnMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0dClMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260919T083000
+DTEND;TZID=Australia/Sydney:20260919T223000
+SUMMARY:SRO Shannon's Speedseries 2026 Round 5
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0dClMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0dCoMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260920T083000
+DTEND;TZID=Australia/Sydney:20260920T223000
+SUMMARY:SRO Shannon's Speedseries 2026 Round 5
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0dCoMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0dCqMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260920T083000
+DTEND;TZID=Australia/Sydney:20260920T223000
+SUMMARY:SRO Shannon's Speedseries 2026 Round 5
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0dCqMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0dCpMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260920T083000
+DTEND;TZID=Australia/Sydney:20260920T223000
+SUMMARY:SRO Shannon's Speedseries 2026 Round 5
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0dCpMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000chZHZMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260921T083000
+DTEND;TZID=Australia/Sydney:20260921T163000
+SUMMARY:Anglo Motorsport - Formula Ford Experience
+LOCATION:Amaroo (South)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000chZHZMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAcsbMAC@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260921T083000
+DTEND;TZID=Australia/Sydney:20260921T163000
+SUMMARY:Driving Solutions - Private Event
+LOCATION:Druitt (North)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAcsbMAC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0nAMMAY@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260921T083000
+DTEND;TZID=Australia/Sydney:20260921T163000
+SUMMARY:Private Event
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0nAMMAY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAdQTMA0@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260921T183000
+DTEND;TZID=Australia/Sydney:20260921T223000
+SUMMARY:Driving Solutions - Private Event
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAdQTMA0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cerW0MAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260922T083000
+DTEND;TZID=Australia/Sydney:20260922T163000
+SUMMARY:Driving Solutions - 4WD Driver Training
+LOCATION:4WD Track
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cerW0MAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000abVksMAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260922T183000
+DTEND;TZID=Australia/Sydney:20260922T223000
+SUMMARY:SMSP Track Night
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000abVksMAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfiyXMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260923T083000
+DTEND;TZID=Australia/Sydney:20260923T163000
+SUMMARY:Driving Solutions - Advanced Driver Training
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfiyXMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAe82MAC@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260923T083000
+DTEND;TZID=Australia/Sydney:20260923T163000
+SUMMARY:SMSP Open Pit Lane
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAe82MAC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cqFLHMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260924T083000
+DTEND;TZID=Australia/Sydney:20260924T163000
+SUMMARY:Driving Solutions - NSW Fire
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cqFLHMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cqFLGMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260924T083000
+DTEND;TZID=Australia/Sydney:20260924T163000
+SUMMARY:Driving Solutions - NSW Fire
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cqFLGMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAdDcMAK@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260924T183000
+DTEND;TZID=Australia/Sydney:20260924T223000
+SUMMARY:Driving Solutions - Skid & Slide
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAdDcMAK
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000aZmoDMAS@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260924T183000
+DTEND;TZID=Australia/Sydney:20260924T223000
+SUMMARY:SMSP Ride Night MEGA
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000aZmoDMAS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfmdtMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260925T083000
+DTEND;TZID=Australia/Sydney:20260925T163000
+SUMMARY:Driving Solutions - Defensive Driver Training
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfmdtMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfmduMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260925T083000
+DTEND;TZID=Australia/Sydney:20260925T163000
+SUMMARY:Driving Solutions - Defensive Driver Training
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfmduMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000aZeVhMAK@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260925T083000
+DTEND;TZID=Australia/Sydney:20260925T163000
+SUMMARY:SMSP Ride Days - MEGA
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000aZeVhMAK
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000dl5c6MAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260925T183000
+DTEND;TZID=Australia/Sydney:20260925T223000
+SUMMARY:NIGHTSHIFT CARS // ARDC Members Social and Track Night - Septembe
+ r 2026
+LOCATION:Brabham (Extended)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000dl5c6MAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cl649MAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260925T183000
+DTEND;TZID=Australia/Sydney:20260925T223000
+SUMMARY:Tuned
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cl649MAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cl64AMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260925T183000
+DTEND;TZID=Australia/Sydney:20260925T223000
+SUMMARY:Tuned
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cl64AMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAgg5MAC@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260926T060000
+DTEND;TZID=Australia/Sydney:20260926T080000
+SUMMARY:North Western Sydney Cycling Club
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAgg5MAC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cf91TMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260926T083000
+DTEND;TZID=Australia/Sydney:20260926T163000
+SUMMARY:Driving Solutions - 4WD Driver Training
+LOCATION:4WD Track
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cf91TMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0zWUMAY@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260926T083000
+DTEND;TZID=Australia/Sydney:20260926T163000
+SUMMARY:Impreza WRX Club Inc.
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0zWUMAY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000aZeViMAK@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260926T083000
+DTEND;TZID=Australia/Sydney:20260926T163000
+SUMMARY:SMSP Ride Days - MEGA
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000aZeViMAK
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cgsVyMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260926T183000
+DTEND;TZID=Australia/Sydney:20260926T223000
+SUMMARY:Roll Racing Sydney - State Of Origin 2026
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cgsVyMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cgsVxMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260926T183000
+DTEND;TZID=Australia/Sydney:20260926T223000
+SUMMARY:Roll Racing Sydney - State Of Origin 2026
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cgsVxMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAWvGMAW@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260927T060000
+DTEND;TZID=Australia/Sydney:20260927T080000
+SUMMARY:Waratah Masters Cycling Club
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAWvGMAW
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cejyHMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260927T083000
+DTEND;TZID=Australia/Sydney:20260927T163000
+SUMMARY:BMW Drivers Club NSW
+LOCATION:Amaroo (South)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cejyHMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cpkVzMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260927T083000
+DTEND;TZID=Australia/Sydney:20260927T163000
+SUMMARY:Drift Sydney
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cpkVzMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfPRBMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260927T083000
+DTEND;TZID=Australia/Sydney:20260927T163000
+SUMMARY:Driving Solutions - 4WD Driver Training
+LOCATION:4WD Track
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfPRBMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0zpqMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260927T083000
+DTEND;TZID=Australia/Sydney:20260927T163000
+SUMMARY:Jaguar Drivers Club
+LOCATION:Druitt (North)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0zpqMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000clbZJMAY@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260927T183000
+DTEND;TZID=Australia/Sydney:20260927T223000
+SUMMARY:Tuned
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000clbZJMAY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000hEAMvMAO@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260928T083000
+DTEND;TZID=Australia/Sydney:20260928T170000
+SUMMARY:ARDC Open Private Practice
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000hEAMvMAO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAi5BMAS@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260928T083000
+DTEND;TZID=Australia/Sydney:20260928T163000
+SUMMARY:Driving Solutions - Private Event
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAi5BMAS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAiOXMA0@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260929T083000
+DTEND;TZID=Australia/Sydney:20260929T163000
+SUMMARY:Training and Adventure Company
+LOCATION:Amaroo (South)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAiOXMA0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000abotxMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260929T183000
+DTEND;TZID=Australia/Sydney:20260929T223000
+SUMMARY:SMSP Track Night
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000abotxMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cxE13MAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260930T083000
+DTEND;TZID=Australia/Sydney:20260930T163000
+SUMMARY:Driving Solutions - EV Driver Training
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cxE13MAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cxE14MAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260930T083000
+DTEND;TZID=Australia/Sydney:20260930T163000
+SUMMARY:Driving Solutions - EV Driver Training
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cxE14MAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000abh2tMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20260930T083000
+DTEND;TZID=Australia/Sydney:20260930T170000
+SUMMARY:SMSP Track Day
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000abh2tMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cpmbFMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261001T083000
+DTEND;TZID=Australia/Sydney:20261001T163000
+SUMMARY:Driving Solutions - NSW Fire
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cpmbFMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cpmbEMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261001T083000
+DTEND;TZID=Australia/Sydney:20261001T163000
+SUMMARY:Driving Solutions - NSW Fire
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cpmbEMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAjHNMA0@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261001T183000
+DTEND;TZID=Australia/Sydney:20261001T223000
+SUMMARY:Driving Solutions - Private Event
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAjHNMA0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000chNxyMAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261002T083000
+DTEND;TZID=Australia/Sydney:20261002T163000
+SUMMARY:Anglo Motorsport - Formula Ford Experience
+LOCATION:Amaroo (South)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000chNxyMAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfmysMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261002T083000
+DTEND;TZID=Australia/Sydney:20261002T163000
+SUMMARY:Driving Solutions - Defensive Driver Training
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfmysMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfmyrMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261002T083000
+DTEND;TZID=Australia/Sydney:20261002T163000
+SUMMARY:Driving Solutions - Defensive Driver Training
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfmyrMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAmOvMAK@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261002T183000
+DTEND;TZID=Australia/Sydney:20261002T223000
+SUMMARY:Australian Drift School
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAmOvMAK
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAmOwMAK@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261002T183000
+DTEND;TZID=Australia/Sydney:20261002T223000
+SUMMARY:Australian Drift School
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAmOwMAK
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAjJ0MAK@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261002T183000
+DTEND;TZID=Australia/Sydney:20261002T223000
+SUMMARY:SMSP Track Night
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAjJ0MAK
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000chNxzMAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261003T083000
+DTEND;TZID=Australia/Sydney:20261003T163000
+SUMMARY:Anglo Motorsport - Formula Ford Experience
+LOCATION:Amaroo (South)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000chNxzMAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000ckPbtMAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261003T083000
+DTEND;TZID=Australia/Sydney:20261003T163000
+SUMMARY:Christian Autosports Club of Australia
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000ckPbtMAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cq7YzMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261003T083000
+DTEND;TZID=Australia/Sydney:20261003T163000
+SUMMARY:Drift Sydney
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cq7YzMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000ch8amMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261003T183000
+DTEND;TZID=Australia/Sydney:20261003T223000
+SUMMARY:Road and Track Drivers Club - RTDC
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000ch8amMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAgbHMAS@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261003T183000
+DTEND;TZID=Australia/Sydney:20261003T223000
+SUMMARY:SMSP Ride Night MEGA
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAgbHMAS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAnBJMA0@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261004T060000
+DTEND;TZID=Australia/Sydney:20261004T080000
+SUMMARY:Waratah Masters Cycling Club
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAnBJMA0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cemjDMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261004T083000
+DTEND;TZID=Australia/Sydney:20261004T163000
+SUMMARY:BMW Drivers Club NSW
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cemjDMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000aZDYkMAO@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261004T083000
+DTEND;TZID=Australia/Sydney:20261004T163000
+SUMMARY:SMSP Ride Days - MEGA
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000aZDYkMAO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAfmRMAS@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261005T060000
+DTEND;TZID=Australia/Sydney:20261005T080000
+SUMMARY:Waratah Masters Cycling Club
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAfmRMAS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000aZDYlMAO@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261005T083000
+DTEND;TZID=Australia/Sydney:20261005T163000
+SUMMARY:SMSP Ride Days - MEGA
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000aZDYlMAO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000ac5A1MAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261006T180000
+DTEND;TZID=Australia/Sydney:20261006T200000
+SUMMARY:Night Drive for Learners - October 2026
+LOCATION:Brabham (Extended)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000ac5A1MAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cekpVMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261007T083000
+DTEND;TZID=Australia/Sydney:20261007T163000
+SUMMARY:Driving Solutions - 4WD Driver Training
+LOCATION:4WD Track
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cekpVMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfzo2MAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261007T083000
+DTEND;TZID=Australia/Sydney:20261007T163000
+SUMMARY:Driving Solutions - Advanced Driver Training
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfzo2MAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAnpdMAC@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261007T183000
+DTEND;TZID=Australia/Sydney:20261007T223000
+SUMMARY:Longroup - Private Event
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAnpdMAC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAnpeMAC@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261007T183000
+DTEND;TZID=Australia/Sydney:20261007T223000
+SUMMARY:Longroup - Private Event
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAnpeMAC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cpkB0MAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261008T083000
+DTEND;TZID=Australia/Sydney:20261008T163000
+SUMMARY:Driving Solutions - NSW Fire
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cpkB0MAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cpkB1MAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261008T083000
+DTEND;TZID=Australia/Sydney:20261008T163000
+SUMMARY:Driving Solutions - NSW Fire
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cpkB1MAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000dNnUcMAK@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261008T083000
+DTEND;TZID=Australia/Sydney:20261008T163000
+SUMMARY:Longroup
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000dNnUcMAK
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d0rAnMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261008T183000
+DTEND;TZID=Australia/Sydney:20261008T223000
+SUMMARY:SMSP Night Sprint
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d0rAnMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cpkB2MAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261009T083000
+DTEND;TZID=Australia/Sydney:20261009T163000
+SUMMARY:Driving Solutions - NSW Fire
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cpkB2MAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cpkB3MAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261009T083000
+DTEND;TZID=Australia/Sydney:20261009T163000
+SUMMARY:Driving Solutions - NSW Fire
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cpkB3MAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAo7NMAS@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261009T083000
+DTEND;TZID=Australia/Sydney:20261009T163000
+SUMMARY:Driving Solutions - Private Event
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAo7NMAS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1CdNMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261009T183000
+DTEND;TZID=Australia/Sydney:20261009T223000
+SUMMARY:Driving Solutions - Skid & Slide
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1CdNMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1CYXMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261009T183000
+DTEND;TZID=Australia/Sydney:20261009T223000
+SUMMARY:Roll Racing Sydney
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1CYXMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cgPfKMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261009T183000
+DTEND;TZID=Australia/Sydney:20261009T223000
+SUMMARY:Roll Racing Sydney
+LOCATION:Druitt (North)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cgPfKMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1B32MAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261010T083000
+DTEND;TZID=Australia/Sydney:20261010T163000
+SUMMARY:SubiNats 26 - Impreza WRX Club Inc.
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1B32MAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1B31MAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261010T083000
+DTEND;TZID=Australia/Sydney:20261010T223000
+SUMMARY:SubiNats 26 - Impreza WRX Club Inc.
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1B31MAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1B30MAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261010T083000
+DTEND;TZID=Australia/Sydney:20261010T163000
+SUMMARY:SubiNats 26 - Impreza WRX Club Inc.
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1B30MAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000dNgktMAC@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261010T183000
+DTEND;TZID=Australia/Sydney:20261010T223000
+SUMMARY:SubiNats 26 - Impreza WRX Club Inc.
+LOCATION:Druitt (North)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000dNgktMAC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfPxRMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261011T083000
+DTEND;TZID=Australia/Sydney:20261011T163000
+SUMMARY:Driving Solutions - 4WD Driver Training
+LOCATION:4WD Track
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfPxRMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000ch1MOMAY@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261011T083000
+DTEND;TZID=Australia/Sydney:20261011T163000
+SUMMARY:Porsche Car Club
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000ch1MOMAY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAoKHMA0@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261011T083000
+DTEND;TZID=Australia/Sydney:20261011T163000
+SUMMARY:SMSP Ride Days - MEGA
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAoKHMA0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cl90OMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261011T183000
+DTEND;TZID=Australia/Sydney:20261011T223000
+SUMMARY:Tuned
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cl90OMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1CwjMAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261012T083000
+DTEND;TZID=Australia/Sydney:20261012T163000
+SUMMARY:Audi Driving Experience
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1CwjMAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1CwkMAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261012T083000
+DTEND;TZID=Australia/Sydney:20261012T163000
+SUMMARY:Audi Driving Experience
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1CwkMAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1CwmMAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261013T083000
+DTEND;TZID=Australia/Sydney:20261013T163000
+SUMMARY:Audi Driving Experience
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1CwmMAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1CwlMAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261013T083000
+DTEND;TZID=Australia/Sydney:20261013T163000
+SUMMARY:Audi Driving Experience
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1CwlMAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000abZepMAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261013T183000
+DTEND;TZID=Australia/Sydney:20261013T223000
+SUMMARY:SMSP Track Night
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000abZepMAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1CwoMAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261014T083000
+DTEND;TZID=Australia/Sydney:20261014T163000
+SUMMARY:Audi Driving Experience
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1CwoMAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1CwnMAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261014T083000
+DTEND;TZID=Australia/Sydney:20261014T163000
+SUMMARY:Audi Driving Experience
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1CwnMAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1CwqMAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261015T083000
+DTEND;TZID=Australia/Sydney:20261015T163000
+SUMMARY:Audi Driving Experience
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1CwqMAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1CwpMAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261015T083000
+DTEND;TZID=Australia/Sydney:20261015T163000
+SUMMARY:Audi Driving Experience
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1CwpMAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000aZnAnMAK@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261015T183000
+DTEND;TZID=Australia/Sydney:20261015T223000
+SUMMARY:SMSP Ride Night MEGA
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000aZnAnMAK
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1CwsMAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261016T083000
+DTEND;TZID=Australia/Sydney:20261016T163000
+SUMMARY:Audi Driving Experience
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1CwsMAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1CwrMAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261016T083000
+DTEND;TZID=Australia/Sydney:20261016T163000
+SUMMARY:Audi Driving Experience
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1CwrMAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1D1ZMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261016T183000
+DTEND;TZID=Australia/Sydney:20261016T223000
+SUMMARY:Driving Solutions - Skid & Slide
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1D1ZMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAolhMAC@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261016T183000
+DTEND;TZID=Australia/Sydney:20261016T223000
+SUMMARY:SMSP Track Night
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAolhMAC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfPWBMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261017T083000
+DTEND;TZID=Australia/Sydney:20261017T163000
+SUMMARY:Driving Solutions - 4WD Driver Training
+LOCATION:4WD Track
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfPWBMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1BpOMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261017T083000
+DTEND;TZID=Australia/Sydney:20261017T163000
+SUMMARY:Motor Racing Australia - MRA
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1BpOMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000clqi1MAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261017T083000
+DTEND;TZID=Australia/Sydney:20261017T183000
+SUMMARY:Private Event
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000clqi1MAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cpzJkMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261017T183000
+DTEND;TZID=Australia/Sydney:20261017T223000
+SUMMARY:Drift Sydney - United Festival 2026
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cpzJkMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cpzJjMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261017T183000
+DTEND;TZID=Australia/Sydney:20261017T223000
+SUMMARY:Drift Sydney - United Festival 2026
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cpzJjMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000clpafMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261017T183000
+DTEND;TZID=Australia/Sydney:20261017T223000
+SUMMARY:Tuned - United Festival 2026
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000clpafMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAprRMAS@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261018T060000
+DTEND;TZID=Australia/Sydney:20261018T080000
+SUMMARY:Waratah Masters Cycling Club
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAprRMAS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDXzdMAG@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261018T083000
+DTEND;TZID=Australia/Sydney:20261018T163000
+SUMMARY:Australian Drift Club
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDXzdMAG
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nAnckMAC@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261018T083000
+DTEND;TZID=Australia/Sydney:20261018T163000
+SUMMARY:BMW Drivers Club NSW
+LOCATION:Druitt (North)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nAnckMAC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDKcdMAG@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261018T100000
+DTEND;TZID=Australia/Sydney:20261018T140000
+SUMMARY:Come & Try Driving Experience | Motorkhana (Ages 12-16)
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDKcdMAG
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cel5cMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261019T083000
+DTEND;TZID=Australia/Sydney:20261019T163000
+SUMMARY:Driving Solutions - 4WD Driver Training
+LOCATION:4WD Track
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cel5cMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDe8HMAS@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261019T183000
+DTEND;TZID=Australia/Sydney:20261019T223000
+SUMMARY:Longroup - Private Event
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDe8HMAS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cg3mnMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261020T083000
+DTEND;TZID=Australia/Sydney:20261020T163000
+SUMMARY:Driving Solutions - Advanced Driver Training
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cg3mnMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDeQ1MAK@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261020T083000
+DTEND;TZID=Australia/Sydney:20261020T163000
+SUMMARY:Longroup - Private Event
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDeQ1MAK
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000abpd7MAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261020T183000
+DTEND;TZID=Australia/Sydney:20261020T223000
+SUMMARY:SMSP Track Night
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000abpd7MAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000abd0rMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261021T083000
+DTEND;TZID=Australia/Sydney:20261021T170000
+SUMMARY:SMSP Track Day
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000abd0rMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cqMMjMAM@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261022T083000
+DTEND;TZID=Australia/Sydney:20261022T163000
+SUMMARY:Driving Solutions - NSW Fire
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cqMMjMAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cqMMkMAM@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261022T083000
+DTEND;TZID=Australia/Sydney:20261022T163000
+SUMMARY:Driving Solutions - NSW Fire
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cqMMkMAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1DSzMAM@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261022T183000
+DTEND;TZID=Australia/Sydney:20261022T223000
+SUMMARY:Ferrari Club Australia (NSW)
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1DSzMAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfIuPMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261023T083000
+DTEND;TZID=Australia/Sydney:20261023T163000
+SUMMARY:Driving Solutions - Defensive Driver Training
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfIuPMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfIuOMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261023T083000
+DTEND;TZID=Australia/Sydney:20261023T163000
+SUMMARY:Driving Solutions - Defensive Driver Training
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfIuOMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1DZRMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261023T083000
+DTEND;TZID=Australia/Sydney:20261023T170000
+SUMMARY:Test and Tune: ARDC Private Practice
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1DZRMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1DG6MAM@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261023T183000
+DTEND;TZID=Australia/Sydney:20261023T223000
+SUMMARY:Driving Solutions - Skid & Slide
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1DG6MAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDeppMAC@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261023T183000
+DTEND;TZID=Australia/Sydney:20261023T223000
+SUMMARY:SMSP Track Night
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDeppMAC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1DG7MAM@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261024T083000
+DTEND;TZID=Australia/Sydney:20261024T163000
+SUMMARY:Rotary Revival Sydney
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1DG7MAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1DG8MAM@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261024T083000
+DTEND;TZID=Australia/Sydney:20261024T163000
+SUMMARY:Rotary Revival Sydney
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1DG8MAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDdKKMA0@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261024T100000
+DTEND;TZID=Australia/Sydney:20261024T140000
+SUMMARY:Come & Try Driving Experience | Motorkhana (Ages 12-16)
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDdKKMA0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cpBwZMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261024T183000
+DTEND;TZID=Australia/Sydney:20261024T223000
+SUMMARY:Australian Drift Club
+LOCATION:Amaroo (South)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cpBwZMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDfYzMAK@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261024T183000
+DTEND;TZID=Australia/Sydney:20261024T223000
+SUMMARY:Cranked Motorsports
+LOCATION:Druitt (North)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDfYzMAK
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cpuFDMAY@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261024T183000
+DTEND;TZID=Australia/Sydney:20261024T223000
+SUMMARY:Drift Sydney
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cpuFDMAY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000e3YpKMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261025T083000
+DTEND;TZID=Australia/Sydney:20261025T163000
+SUMMARY:Australian Drift School
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000e3YpKMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000e3YpJMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261025T083000
+DTEND;TZID=Australia/Sydney:20261025T163000
+SUMMARY:Australian Drift School
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000e3YpJMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDT3DMAW@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261025T083000
+DTEND;TZID=Australia/Sydney:20261025T223000
+SUMMARY:Cranked Motorsports
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDT3DMAW
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1DJLMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261026T083000
+DTEND;TZID=Australia/Sydney:20261026T163000
+SUMMARY:Audi Driving Experience
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1DJLMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1DJMMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261026T083000
+DTEND;TZID=Australia/Sydney:20261026T163000
+SUMMARY:Audi Driving Experience
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1DJMMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1DJOMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261027T083000
+DTEND;TZID=Australia/Sydney:20261027T163000
+SUMMARY:Audi Driving Experience
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1DJOMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1DJNMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261027T083000
+DTEND;TZID=Australia/Sydney:20261027T163000
+SUMMARY:Audi Driving Experience
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1DJNMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000abXrWMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261027T183000
+DTEND;TZID=Australia/Sydney:20261027T223000
+SUMMARY:SMSP Track Night
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000abXrWMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1DJQMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261028T083000
+DTEND;TZID=Australia/Sydney:20261028T163000
+SUMMARY:Audi Driving Experience
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1DJQMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1DJPMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261028T083000
+DTEND;TZID=Australia/Sydney:20261028T163000
+SUMMARY:Audi Driving Experience
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1DJPMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1DJSMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261029T083000
+DTEND;TZID=Australia/Sydney:20261029T163000
+SUMMARY:Audi Driving Experience
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1DJSMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1DJRMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261029T083000
+DTEND;TZID=Australia/Sydney:20261029T163000
+SUMMARY:Audi Driving Experience
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1DJRMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1DJUMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261030T083000
+DTEND;TZID=Australia/Sydney:20261030T163000
+SUMMARY:Audi Driving Experience
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1DJUMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1DJTMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261030T083000
+DTEND;TZID=Australia/Sydney:20261030T163000
+SUMMARY:Audi Driving Experience
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1DJTMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d16g6MAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261031T083000
+DTEND;TZID=Australia/Sydney:20261031T163000
+SUMMARY:Powerplay Sydney - Powercruise Promotions
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d16g6MAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d16g5MAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261031T083000
+DTEND;TZID=Australia/Sydney:20261031T163000
+SUMMARY:Powerplay Sydney - Powercruise Promotions
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d16g5MAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d16g4MAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261031T083000
+DTEND;TZID=Australia/Sydney:20261031T163000
+SUMMARY:Powerplay Sydney - Powercruise Promotions
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d16g4MAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000e3IxSMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261031T183000
+DTEND;TZID=Australia/Sydney:20261031T223000
+SUMMARY:Australian Drift School
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000e3IxSMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000e3IxTMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261031T183000
+DTEND;TZID=Australia/Sydney:20261031T223000
+SUMMARY:Australian Drift School
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000e3IxTMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDfp7MAC@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261031T183000
+DTEND;TZID=Australia/Sydney:20261031T223000
+SUMMARY:Porsche Car Club
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDfp7MAC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDftxMAC@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261101T060000
+DTEND;TZID=Australia/Sydney:20261101T080000
+SUMMARY:Waratah Masters Cycling Club
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDftxMAC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDVmYMAW@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261101T083000
+DTEND;TZID=Australia/Sydney:20261101T163000
+SUMMARY:Blacktown City Council - Household Chemical CleanOut
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDVmYMAW
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfTo9MAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261101T083000
+DTEND;TZID=Australia/Sydney:20261101T163000
+SUMMARY:Driving Solutions - 4WD Driver Training
+LOCATION:4WD Track
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfTo9MAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000aZZZGMA4@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261101T083000
+DTEND;TZID=Australia/Sydney:20261101T163000
+SUMMARY:SMSP Ride Days - MEGA
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000aZZZGMA4
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cgtNBMAY@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261101T183000
+DTEND;TZID=Australia/Sydney:20261101T223000
+SUMMARY:Roll Racing Sydney - Heavy Hitters
+LOCATION:Druitt (North)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cgtNBMAY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cgtNCMAY@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261101T183000
+DTEND;TZID=Australia/Sydney:20261101T223000
+SUMMARY:Roll Racing Sydney - Heavy Hitters
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cgtNCMAY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cqMY2MAM@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261102T083000
+DTEND;TZID=Australia/Sydney:20261102T163000
+SUMMARY:Driving Solutions - NSW Fire
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cqMY2MAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cqMY1MAM@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261102T083000
+DTEND;TZID=Australia/Sydney:20261102T163000
+SUMMARY:Driving Solutions - NSW Fire
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cqMY1MAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfeusMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261103T083000
+DTEND;TZID=Australia/Sydney:20261103T163000
+SUMMARY:Driving Solutions - Defensive Driver Training
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfeusMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfeutMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261103T083000
+DTEND;TZID=Australia/Sydney:20261103T163000
+SUMMARY:Driving Solutions - Defensive Driver Training
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfeutMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000ac4p3MAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261103T180000
+DTEND;TZID=Australia/Sydney:20261103T200000
+SUMMARY:Night Drive for Learners - November 2026
+LOCATION:Brabham (Extended)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000ac4p3MAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000chMtqMAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261105T083000
+DTEND;TZID=Australia/Sydney:20261105T163000
+SUMMARY:Porsche Sydney South
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000chMtqMAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1ENRMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261105T183000
+DTEND;TZID=Australia/Sydney:20261105T223000
+SUMMARY:Driving Solutions - Skid & Slide
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1ENRMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000chXhCMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261106T083000
+DTEND;TZID=Australia/Sydney:20261106T163000
+SUMMARY:Anglo Motorsport - Formula Ford Experience
+LOCATION:Amaroo (South)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000chXhCMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDf4MMAS@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261106T083000
+DTEND;TZID=Australia/Sydney:20261106T163000
+SUMMARY:Driving Solutions - 4WD Driver Training Private
+LOCATION:4WD Track
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDf4MMAS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfOwYMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261106T083000
+DTEND;TZID=Australia/Sydney:20261106T163000
+SUMMARY:Driving Solutions - Advanced Driver Training
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfOwYMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000chFnVMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261106T083000
+DTEND;TZID=Australia/Sydney:20261106T163000
+SUMMARY:Fastrack V8 Race Experience
+LOCATION:Druitt (North)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000chFnVMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1EDlMAM@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261106T183000
+DTEND;TZID=Australia/Sydney:20261106T223000
+SUMMARY:St George Motorcycle Club - Summer Night Series 2026/2027
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1EDlMAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d16JSMAY@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261107T083000
+DTEND;TZID=Australia/Sydney:20261107T163000
+SUMMARY:Australian Drift School
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d16JSMAY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d16JTMAY@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261107T083000
+DTEND;TZID=Australia/Sydney:20261107T163000
+SUMMARY:Australian Drift School
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d16JTMAY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDf4NMAS@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261107T083000
+DTEND;TZID=Australia/Sydney:20261107T163000
+SUMMARY:Driving Solutions - 4WD Driver Training Private
+LOCATION:4WD Track
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDf4NMAS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000chGBhMAM@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261107T083000
+DTEND;TZID=Australia/Sydney:20261107T163000
+SUMMARY:Fastrack - Exotic Supercar Drive Experiences
+LOCATION:Amaroo (South)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000chGBhMAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000chFnWMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261107T083000
+DTEND;TZID=Australia/Sydney:20261107T163000
+SUMMARY:Fastrack V8 Race Experience
+LOCATION:Druitt (North)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000chFnWMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000chE9vMAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261107T183000
+DTEND;TZID=Australia/Sydney:20261107T223000
+SUMMARY:Road and Track Drivers Club - RTDC
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000chE9vMAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000agQJ7MAM@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261107T183000
+DTEND;TZID=Australia/Sydney:20261107T223000
+SUMMARY:St George Motorcycle Club - Summer Night Series 2026/2027
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000agQJ7MAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDf4OMAS@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261108T083000
+DTEND;TZID=Australia/Sydney:20261108T163000
+SUMMARY:Driving Solutions - 4WD Driver Training Private
+LOCATION:4WD Track
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDf4OMAS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000chGBiMAM@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261108T083000
+DTEND;TZID=Australia/Sydney:20261108T163000
+SUMMARY:Fastrack - Exotic Supercar Drive Experiences
+LOCATION:Amaroo (South)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000chGBiMAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000chFnXMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261108T083000
+DTEND;TZID=Australia/Sydney:20261108T163000
+SUMMARY:Fastrack V8 Race Experience
+LOCATION:Druitt (North)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000chFnXMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000ckjh2MAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261108T083000
+DTEND;TZID=Australia/Sydney:20261108T163000
+SUMMARY:Mazda MX-5 Club of NSW
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000ckjh2MAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfPkbMAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261109T083000
+DTEND;TZID=Australia/Sydney:20261109T163000
+SUMMARY:Driving Solutions - 4WD Driver Training
+LOCATION:4WD Track
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfPkbMAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfbAcMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261110T083000
+DTEND;TZID=Australia/Sydney:20261110T163000
+SUMMARY:Driving Solutions - Defensive Driver Training
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfbAcMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfbAdMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261110T083000
+DTEND;TZID=Australia/Sydney:20261110T163000
+SUMMARY:Driving Solutions - Defensive Driver Training
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfbAdMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000abRR7MAM@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261110T183000
+DTEND;TZID=Australia/Sydney:20261110T223000
+SUMMARY:SMSP Track Night
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000abRR7MAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cg44XMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261111T083000
+DTEND;TZID=Australia/Sydney:20261111T163000
+SUMMARY:Driving Solutions - Advanced Driver Training
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cg44XMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000abdiPMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261111T083000
+DTEND;TZID=Australia/Sydney:20261111T170000
+SUMMARY:SMSP Track Day
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000abdiPMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1E7KMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261112T083000
+DTEND;TZID=Australia/Sydney:20261112T163000
+SUMMARY:Longroup
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1E7KMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDgLNMA0@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261112T183000
+DTEND;TZID=Australia/Sydney:20261112T223000
+SUMMARY:NIGHTSHIFT CARS // ARDC Members Social and Track Night - November
+  2026
+LOCATION:Brabham (Extended)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDgLNMA0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDaUUMA0@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261113T183000
+DTEND;TZID=Australia/Sydney:20261113T223000
+SUMMARY:Driving Solutions - Skid & Slide
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDaUUMA0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDgRpMAK@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261114T183000
+DTEND;TZID=Australia/Sydney:20261114T223000
+SUMMARY:Drift Sydney
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDgRpMAK
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cq9isMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261114T183000
+DTEND;TZID=Australia/Sydney:20261114T223000
+SUMMARY:Drift Sydney
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cq9isMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDYfcMAG@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261115T083000
+DTEND;TZID=Australia/Sydney:20261115T163000
+SUMMARY:Driving Solutions - 4WD Driver Training
+LOCATION:4WD Track
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDYfcMAG
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDgN0MAK@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261115T083000
+DTEND;TZID=Australia/Sydney:20261115T163000
+SUMMARY:Porsche Car Club
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDgN0MAK
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDhR7MAK@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261117T183000
+DTEND;TZID=Australia/Sydney:20261117T223000
+SUMMARY:SMSP Track Night
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDhR7MAK
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDhULMA0@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261120T183000
+DTEND;TZID=Australia/Sydney:20261120T223000
+SUMMARY:Roll Racing Sydney
+LOCATION:Druitt (North)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDhULMA0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDhUMMA0@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261120T183000
+DTEND;TZID=Australia/Sydney:20261120T223000
+SUMMARY:Roll Racing Sydney
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDhUMMA0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDgq2MAC@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261121T060000
+DTEND;TZID=Australia/Sydney:20261121T080000
+SUMMARY:Camden Cycling Club
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDgq2MAC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDhm5MAC@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261121T083000
+DTEND;TZID=Australia/Sydney:20261121T163000
+SUMMARY:Drift Sydney
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDhm5MAC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDahOMAS@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261121T083000
+DTEND;TZID=Australia/Sydney:20261121T163000
+SUMMARY:SMSP Ride Days - MEGA
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDahOMAS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDhfdMAC@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261121T183000
+DTEND;TZID=Australia/Sydney:20261121T223000
+SUMMARY:Tuned Drift X
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDhfdMAC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nE3bJMAS@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261122T083000
+DTEND;TZID=Australia/Sydney:20261122T163000
+SUMMARY:Porsche Car Club
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nE3bJMAS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nDahPMAS@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261122T083000
+DTEND;TZID=Australia/Sydney:20261122T163000
+SUMMARY:SMSP Ride Days - MEGA
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nDahPMAS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nE3kzMAC@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261124T183000
+DTEND;TZID=Australia/Sydney:20261124T223000
+SUMMARY:SMSP Track Night
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nE3kzMAC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000gBirxMAC@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261126T083000
+DTEND;TZID=Australia/Sydney:20261126T163000
+SUMMARY:Driving Solutions - Defensive Driver Training
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000gBirxMAC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000gBiryMAC@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261126T083000
+DTEND;TZID=Australia/Sydney:20261126T163000
+SUMMARY:Driving Solutions - Defensive Driver Training
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000gBiryMAC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cgStHMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261126T183000
+DTEND;TZID=Australia/Sydney:20261126T223000
+SUMMARY:Roll Racing Sydney - 2WD Night
+LOCATION:Druitt (North)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cgStHMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d18t9MAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261127T083000
+DTEND;TZID=Australia/Sydney:20261127T170000
+SUMMARY:HSRCA Summer Festival 2026
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d18t9MAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d18t8MAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261127T083000
+DTEND;TZID=Australia/Sydney:20261127T170000
+SUMMARY:HSRCA Summer Festival 2026
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d18t8MAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d18tAMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261127T083000
+DTEND;TZID=Australia/Sydney:20261127T170000
+SUMMARY:HSRCA Summer Festival 2026
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d18tAMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfVYDMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261128T083000
+DTEND;TZID=Australia/Sydney:20261128T163000
+SUMMARY:Driving Solutions - 4WD Driver Training
+LOCATION:4WD Track
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfVYDMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d18tBMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261128T083000
+DTEND;TZID=Australia/Sydney:20261128T170000
+SUMMARY:HSRCA Summer Festival 2026
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d18tBMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d18tCMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261128T083000
+DTEND;TZID=Australia/Sydney:20261128T170000
+SUMMARY:HSRCA Summer Festival 2026
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d18tCMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d18tDMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261128T083000
+DTEND;TZID=Australia/Sydney:20261128T170000
+SUMMARY:HSRCA Summer Festival 2026
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d18tDMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nE5GXMA0@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261129T060000
+DTEND;TZID=Australia/Sydney:20261129T080000
+SUMMARY:Waratah Masters Cycling Club
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nE5GXMA0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d18tEMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261129T083000
+DTEND;TZID=Australia/Sydney:20261129T170000
+SUMMARY:HSRCA Summer Festival 2026
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d18tEMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d18tGMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261129T083000
+DTEND;TZID=Australia/Sydney:20261129T170000
+SUMMARY:HSRCA Summer Festival 2026
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d18tGMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d18tFMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261129T083000
+DTEND;TZID=Australia/Sydney:20261129T170000
+SUMMARY:HSRCA Summer Festival 2026
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d18tFMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cll42MAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261129T183000
+DTEND;TZID=Australia/Sydney:20261129T223000
+SUMMARY:Tuned
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cll42MAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000ck7YVMAY@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261130T083000
+DTEND;TZID=Australia/Sydney:20261130T163000
+SUMMARY:California Superbike School Australia
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000ck7YVMAY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cflt9MAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261130T083000
+DTEND;TZID=Australia/Sydney:20261130T163000
+SUMMARY:Driving Solutions - Defensive Driver Training
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cflt9MAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfltAMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261130T083000
+DTEND;TZID=Australia/Sydney:20261130T163000
+SUMMARY:Driving Solutions - Defensive Driver Training
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfltAMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000ck7YWMAY@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261201T083000
+DTEND;TZID=Australia/Sydney:20261201T163000
+SUMMARY:California Superbike School Australia
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000ck7YWMAY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000ac3szMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261201T180000
+DTEND;TZID=Australia/Sydney:20261201T200000
+SUMMARY:Night Drive for Learners - December 2026
+LOCATION:Brabham (Extended)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000ac3szMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000abIXmMAM@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261202T083000
+DTEND;TZID=Australia/Sydney:20261202T170000
+SUMMARY:SMSP Track Day
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000abIXmMAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cg6ccMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261203T083000
+DTEND;TZID=Australia/Sydney:20261203T163000
+SUMMARY:Driving Solutions - Advanced Driver Training
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cg6ccMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000g2oBpMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261203T183000
+DTEND;TZID=Australia/Sydney:20261203T223000
+SUMMARY:SMSP Night Sprint
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000g2oBpMAI
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfVRmMAM@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261204T083000
+DTEND;TZID=Australia/Sydney:20261204T163000
+SUMMARY:Driving Solutions - 4WD Driver Training
+LOCATION:4WD Track
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfVRmMAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000aZgR3MAK@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261204T083000
+DTEND;TZID=Australia/Sydney:20261204T163000
+SUMMARY:SMSP Ride Days - MEGA
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000aZgR3MAK
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nE9btMAC@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261204T183000
+DTEND;TZID=Australia/Sydney:20261204T223000
+SUMMARY:Driving Solutions - Private Event
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nE9btMAC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1FBRMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261204T183000
+DTEND;TZID=Australia/Sydney:20261204T223000
+SUMMARY:Driving Solutions - Skid & Slide
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1FBRMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000ckb9zMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261205T083000
+DTEND;TZID=Australia/Sydney:20261205T163000
+SUMMARY:Christian Autosports Club of Australia
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000ckb9zMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cyx7OMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261205T083000
+DTEND;TZID=Australia/Sydney:20261205T163000
+SUMMARY:Driving Solutions - Trailer Towing Course
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cyx7OMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000aZgR4MAK@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261205T083000
+DTEND;TZID=Australia/Sydney:20261205T163000
+SUMMARY:SMSP Ride Days - MEGA
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000aZgR4MAK
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000e3JqKMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261205T183000
+DTEND;TZID=Australia/Sydney:20261205T223000
+SUMMARY:Australian Drift School
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000e3JqKMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000e3JqJMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261205T183000
+DTEND;TZID=Australia/Sydney:20261205T223000
+SUMMARY:Australian Drift School
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000e3JqJMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nE9wrMAC@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261205T183000
+DTEND;TZID=Australia/Sydney:20261205T223000
+SUMMARY:Cranked Motorsports
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nE9wrMAC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000agIgYMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261205T183000
+DTEND;TZID=Australia/Sydney:20261205T223000
+SUMMARY:St George Motorcycle Club - Summer Night Series 2026/2027
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000agIgYMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nEAUjMAO@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261206T060000
+DTEND;TZID=Australia/Sydney:20261206T080000
+SUMMARY:Waratah Masters Cycling Club
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nEAUjMAO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000chZZLMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261206T083000
+DTEND;TZID=Australia/Sydney:20261206T163000
+SUMMARY:Anglo Motorsport - Formula Ford Experience
+LOCATION:Amaroo (South)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000chZZLMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cf8QLMAY@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261206T083000
+DTEND;TZID=Australia/Sydney:20261206T163000
+SUMMARY:BMW Drivers Club NSW
+LOCATION:Druitt (North)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cf8QLMAY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000ceisWMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261206T083000
+DTEND;TZID=Australia/Sydney:20261206T163000
+SUMMARY:BMW Drivers Club NSW
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000ceisWMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfS2XMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261206T083000
+DTEND;TZID=Australia/Sydney:20261206T163000
+SUMMARY:Driving Solutions - 4WD Driver Training
+LOCATION:4WD Track
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfS2XMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000chZZMMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261207T083000
+DTEND;TZID=Australia/Sydney:20261207T163000
+SUMMARY:Anglo Motorsport - Formula Ford Experience
+LOCATION:Amaroo (South)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000chZZMMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cftc9MAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261207T083000
+DTEND;TZID=Australia/Sydney:20261207T163000
+SUMMARY:Driving Solutions - Defensive Driver Training
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cftc9MAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cftcAMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261207T083000
+DTEND;TZID=Australia/Sydney:20261207T163000
+SUMMARY:Driving Solutions - Defensive Driver Training
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cftcAMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nEDHJMA4@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261208T083000
+DTEND;TZID=Australia/Sydney:20261208T163000
+SUMMARY:Driving Solutions - Supercar Ride Day - Private Event
+LOCATION:Druitt (North)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nEDHJMA4
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000abSAHMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261208T183000
+DTEND;TZID=Australia/Sydney:20261208T223000
+SUMMARY:SMSP Track Night
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000abSAHMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nEEV7MAO@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261209T083000
+DTEND;TZID=Australia/Sydney:20261209T163000
+SUMMARY:Driving Solutions - EV Driver Training
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nEEV7MAO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nEEV8MAO@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261209T083000
+DTEND;TZID=Australia/Sydney:20261209T163000
+SUMMARY:Driving Solutions - EV Driver Training
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nEEV8MAO
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nEE0TMAW@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261209T183000
+DTEND;TZID=Australia/Sydney:20261209T223000
+SUMMARY:Driving Solutions - Private Event
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nEE0TMAW
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfWxJMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261210T083000
+DTEND;TZID=Australia/Sydney:20261210T163000
+SUMMARY:Driving Solutions - 4WD Driver Training
+LOCATION:4WD Track
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfWxJMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1AlGMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261210T083000
+DTEND;TZID=Australia/Sydney:20261210T163000
+SUMMARY:Longroup
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1AlGMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nEDMAMA4@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261210T183000
+DTEND;TZID=Australia/Sydney:20261210T223000
+SUMMARY:Longroup - Private Event
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nEDMAMA4
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfjwAMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261211T083000
+DTEND;TZID=Australia/Sydney:20261211T163000
+SUMMARY:Driving Solutions - Advanced Driver Training
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfjwAMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000chCmQMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261211T083000
+DTEND;TZID=Australia/Sydney:20261211T163000
+SUMMARY:Fastrack V8 Race Experience
+LOCATION:Druitt (North)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000chCmQMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cg6hVMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261211T183000
+DTEND;TZID=Australia/Sydney:20261211T223000
+SUMMARY:Roll Racing Sydney
+LOCATION:Druitt (North)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cg6hVMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cg6hWMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261211T183000
+DTEND;TZID=Australia/Sydney:20261211T223000
+SUMMARY:Roll Racing Sydney
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cg6hWMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1FcsMAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261212T083000
+DTEND;TZID=Australia/Sydney:20261212T163000
+SUMMARY:Australian Drift School
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1FcsMAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1FcrMAE@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261212T083000
+DTEND;TZID=Australia/Sydney:20261212T163000
+SUMMARY:Australian Drift School
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1FcrMAE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cfXDRMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261212T083000
+DTEND;TZID=Australia/Sydney:20261212T163000
+SUMMARY:Driving Solutions - 4WD Driver Training
+LOCATION:4WD Track
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cfXDRMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000ch867MAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261212T083000
+DTEND;TZID=Australia/Sydney:20261212T163000
+SUMMARY:Fastrack - Exotic Supercar Drive Experiences
+LOCATION:Amaroo (South)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000ch867MAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000chCmRMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261212T083000
+DTEND;TZID=Australia/Sydney:20261212T163000
+SUMMARY:Fastrack V8 Race Experience
+LOCATION:Druitt (North)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000chCmRMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cq6jNMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261212T183000
+DTEND;TZID=Australia/Sydney:20261212T223000
+SUMMARY:Drift Sydney
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cq6jNMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cq6jOMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261212T183000
+DTEND;TZID=Australia/Sydney:20261212T223000
+SUMMARY:Drift Sydney
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cq6jOMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000clHR0MAM@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261212T183000
+DTEND;TZID=Australia/Sydney:20261212T223000
+SUMMARY:Tuned
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000clHR0MAM
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000ch868MAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261213T083000
+DTEND;TZID=Australia/Sydney:20261213T163000
+SUMMARY:Fastrack - Exotic Supercar Drive Experiences
+LOCATION:Amaroo (South)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000ch868MAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000chCmSMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261213T083000
+DTEND;TZID=Australia/Sydney:20261213T163000
+SUMMARY:Fastrack V8 Race Experience
+LOCATION:Druitt (North)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000chCmSMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000chXcLMAU@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261213T083000
+DTEND;TZID=Australia/Sydney:20261213T163000
+SUMMARY:Porsche Car Club
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000chXcLMAU
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000nEDduMAG@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261215T083000
+DTEND;TZID=Australia/Sydney:20261215T163000
+SUMMARY:Driving Solutions - Private Event
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000nEDduMAG
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000ab9pDMAQ@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261215T183000
+DTEND;TZID=Australia/Sydney:20261215T223000
+SUMMARY:SMSP Track Night
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000ab9pDMAQ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000abeOLMAY@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261216T083000
+DTEND;TZID=Australia/Sydney:20261216T170000
+SUMMARY:SMSP Track Day
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000abeOLMAY
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cftx8MAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261217T083000
+DTEND;TZID=Australia/Sydney:20261217T163000
+SUMMARY:Driving Solutions - Defensive Driver Training
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cftx8MAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cftx7MAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261217T083000
+DTEND;TZID=Australia/Sydney:20261217T163000
+SUMMARY:Driving Solutions - Defensive Driver Training
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cftx7MAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000dklojMAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261217T183000
+DTEND;TZID=Australia/Sydney:20261217T223000
+SUMMARY:NIGHTSHIFT CARS // ARDC Members Social and Track Night - December
+  2026
+LOCATION:Brabham (Extended)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000dklojMAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000d1FGHMA2@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261218T183000
+DTEND;TZID=Australia/Sydney:20261218T223000
+SUMMARY:Driving Solutions - Skid & Slide
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000d1FGHMA2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000aZoTRMA0@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261218T183000
+DTEND;TZID=Australia/Sydney:20261218T223000
+SUMMARY:SMSP Ride Night MEGA
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000aZoTRMA0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cq9m5MAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261219T183000
+DTEND;TZID=Australia/Sydney:20261219T223000
+SUMMARY:Drift Sydney
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cq9m5MAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000cq9m6MAA@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261219T183000
+DTEND;TZID=Australia/Sydney:20261219T223000
+SUMMARY:Drift Sydney
+LOCATION:Skid Circuit
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000cq9m6MAA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000aZoTSMA0@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261219T183000
+DTEND;TZID=Australia/Sydney:20261219T223000
+SUMMARY:SMSP Ride Night MEGA
+LOCATION:Gardner (GP)
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000aZoTSMA0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:00UMn00000clrSnMAI@smsp-calendar.akumarau
+DTSTAMP:20261007T053753Z
+DTSTART;TZID=Australia/Sydney:20261220T183000
+DTEND;TZID=Australia/Sydney:20261220T223000
+SUMMARY:Tuned
+LOCATION:Skid Pan
+DESCRIPTION:Source: Sydney Motorsport Park public event calendar
+URL:https://events.sydneymotorsportpark.com.au/eventcalendar/s/#salesforc
+ e-event-00UMn00000clrSnMAI
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
